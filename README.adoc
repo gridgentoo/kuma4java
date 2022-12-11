@@ -1,3 +1,6 @@
+из репозитрая Гамова   
+https://github.com/gAmUssA/kuma4java  
+
 = Service Mesh for Java Developers
 Viktor Gamov <viktor@gamov.io>
 v1.0, 2022-06-23
